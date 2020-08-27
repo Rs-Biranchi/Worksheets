@@ -1,0 +1,41 @@
+Web Scrapping Sheet 1.
+
+1.B)Web scraping
+2.C)scrapy
+3.A)Browser based applications
+4.(B), (C) and (D) are correct
+5.(B) tag.name
+6.C)lxml 
+7.C)execute tests on HTML Unit browses
+8.C)the list of all webelements associated with the ‘given xpath’.
+9.D) “a” number of pixels vertically
+
+10.(A) & (C)
+
+11.Web Scraper is the process of extracting specific data.It tests specific information on specific websites or webpages.
+
+But web crawler is vast as compared to web scraper it searches bilions of information for billions of request at a time.
+
+12. 'robots.txt' is a text file i.e. part of the robots exclusion protocol, a group of web standards. It is used to regulate how robots crawl the web, access the index content and serve the content upto users.
+
+13. Static webpages are the web pages which not changes its contents. Its contents are stable. Some static webpages are –country list web search.
+
+Dynamic web pages are the web pages which change contents & also dynamic web page show different results for every user. Some example of dynamic web page are Flipcart site, Amazon Site, Worldometer data on Coronavirus etc.
+
+14.
+15.
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import pandas as pd
+
+driver=webdriver.Chrome('C:\\chromedriver.exe')
+
+driver.get('https://www.google.com/imghp?hl=EN')
+
+content=driver.page_source
+soup=BeautifulSoup(content)
+search_bar=soup.find('input',attrs={'class':"gLFyf gsfi"})
+search_bar
+
+search_tab=soup.find('span',attrs={'class':"z1asCe MZy1Rb"})
+search_tab
