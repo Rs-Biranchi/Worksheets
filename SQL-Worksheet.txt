@@ -1,0 +1,39 @@
+SQL Worksheet1
+
+1.(A) & (D)
+2.(A),(B) & (C)
+
+3.(B) Structured Query Language
+4.(B)Data Definition Language
+5.(A)Data Manipulation Language
+6.(C)Create Table A(B int,C float)
+7.(B)Alter Table A ADD Column D float
+8.(B)Alter Table A drop column D
+9.Alter table A modify D float(No option is correct)
+10.(D) None of them
+
+11.A large amount of information or data is stored in the electronic storages by organizations or by businesses is called Data ware-house.
+
+12.The differences are as follows-
+OLTP:-
+i)It stands for Online transcation processing.
+ii)It captures,stores and process data from transaction in real time.
+iii)It is online database modifying system.
+iv)Consists of historical Data from various Databases.
+v)It is subject oriented.Used for data Mining,Analytics, Decision Making.
+OLAP:-
+i)It stands for Online Analytical Processing.
+ii)It queries data from OLTP.
+iii)It is Online database query answaring system.
+iv)Consists of only operational current data.
+v)It is application Oriented.Used for bussiness task.
+
+13.There are four Characteristics of Data warehouse
+i)Subject Oriented:-Data warehouse is a subject oriented database as it supports the business need of indivisual department specific user.
+ii)Integrated:- It allows to collect the data and integrate the data with multiple database sources.so it is an integrated database.
+iii)Once data is entered into the database, it does not reflects to the change which takes place at operational database. Hence the data is static in Data Warehouse.
+iv)Time Variant:-It supports the business management in analysing the business and comparing the business with different time periods like Year, Quarter,Month, Week and Data.So it is Time varient.
+
+14.Star schema is the fundamental schema among the data mart schema and it is simplest. This schema is widely used to develop or build a data warehouse and dimensional data marts. It includes one or more fact tables indexing any number of dimensional tables. The star schema is a necessary case of the snowflake schema. It is also efficient for handling basic queries.
+
+15.SETL:- SET Language is a very high-level programming language based on the mathematics theory of sets.

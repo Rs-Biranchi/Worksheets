@@ -1,0 +1,44 @@
+Python Worksheet2
+
+1.(B)struct
+2.(A)_init_
+3.(A)in
+4.(B) BODMAS
+5.(C)iv-iii-ii-i
+6.(C)0.3333...
+7.(D)(X**4)**4
+8.(B)str
+
+9.(A),(B) & (D)
+10.(C)a,b,c=1000,2000,3000
+
+11.These are the data structures in python
+List:-
+i) It is represented by comma separated values with in brackets.
+ii) list can contain integer, float,strings, tuples and other lists also.
+iii)It is mutable means elements can be added and deleted from it.
+
+Tuple:-
+i)It is represented by comma separated values within paranthesis.
+ii)It can also contain all type of datatypes avilable in python.
+iii) It is immutable.
+
+Sets:-
+i)It is represented by comma separated values within Curly braces.
+ii)It also contain all the type of datatypes  available in python.But it is unordered collection means set do not record element position.
+iii)sets are immutable.
+iv)Sets have unique elements. this means there is only one particular element in a set.
+
+Dictionary:-
+
+i)It is represented by comma separated key-value pairs within curly braces.
+ii)In list index is the adress of the value but in dictionary key is the adress to the respective value.
+iii)Keys are unique and immutable.
+iv)Dicionary is mutable and values can be duplicate.
+
+12.Strings are not mutable. So replacing '+' sign with space in python is not possible.
+
+13.The ord() function accepts a string of length one as an argument and returns the unicode point representation of the passeed argument. Unicode is a universal character encoding standard.It defines the way indivisual characters are represented in text files, web pages and other types of documents.
+ord() function returns  the unicode representation of one lettered string character. The unicode point representation of "A" is 65 and "B" is 66.
+
+The function for getting datadype of of a veriable is-  type()
