@@ -1,0 +1,43 @@
+Machine Learning Worksheet-2
+
+1.C)High R-squared value for train-set and Low R-squared value for test-set.
+2.B)Decision Trees are high prone to ouverfitting
+3.C)RandomForest
+4.C)Precision
+5.B)Model B
+
+6.(A) & (D)
+7.(B)Decision Tree
+8.(A) & (C)
+9.(B).
+
+10.The adjusted R-squared penalize the presence of unnecessary predictors in the model by not adding variables which do not improve existing model.
+
+11.Lasso and Ridge Regression are the types of regularizations in Linear Regression.The difference between them are as follows-
+
+Lasso:-
+i)This is L1 Regularization.
+ii)Estimate Median of the data to avoid overfitting.
+iii)Certain Variances are made zero by it.So that model learn good and predict accurately.
+
+Ridge:-
+i)This is L2 Regularization.
+ii)Estimate the mean of the data to avoid overfitting.
+iii)It minimizes the high variance internally so that model learn good.
+
+12.VIF stands for variance Inflation Factor.
+
+13.Data we get for machine learning are often messy they are not in a range.So after performing data cleaning techniques or other types of preprocessing techniques Data scaling is done to normalize the data within a range.So that it helps speeding up the calculation of algorithmns and result good accuracy.
+
+14.Goodness of fit is a statistical technique to check how well the observed data is fitted to the Machine Learning Technique. The metrics used to check the goodness of fit are R squared, Adjused R squared,Root Mean Squared Error(RMSE),Mean Squared Error(MSE) and Mean Absolute error(MAE).
+
+15.Here, True Positive(TP)=1000,
+	 True Negative(TN)=1200,
+	 False Positive(FP)=250 &
+	 False Negative(FN)=50
+
+Sensitivity=recall= TP/(TP+FN)=1000/1050= 0.95
+specificity=TN/(TN+FP)=1200/1450= 0.82
+precision=TP/(TP+FP)=1000/1250= 0.8
+
+accuracy=(TP+TN)/(TP+FP+TN+FN)=2200/2500=0.88
