@@ -1,0 +1,33 @@
+1.mysql> create table Customers(
+    -> customerNumber int not null primary key unique,
+    -> customerName varchar(30),
+    -> contactLastName varchar(25) not null,
+    -> contactFirstName varchar(25) not null,
+    -> phone int(10) not null,
+    -> addressLine1 varchar(100) not null,
+    -> addressLine2 varchar(100),
+    -> city varchar(25) not null,
+    -> state varchar(15) not null,
+    -> postalCode int(6) not null,
+    -> country varchar(15) not null,
+    -> salesRepEmployeeNumber int not null,
+    -> creditLimit int);
+
+2.mysql>  create table orders(
+    -> orderNumber int not null,
+    -> orderDate datetime not null,
+    -> requiredDate date not null,
+    -> shippedDate datetime not null,
+    -> status varchar(50),
+    -> comments varchar(100),
+    -> customerNumber int not null,
+    -> foreign key(customerNumber) references customers(customerNumber));
+
+3.select * from orders;
+4.select comments from orders;
+5. select orderDate,orderNumber from orders;
+6.select employeeNumber,lastName,firstName from from employees;
+7.  
+8.
+9.
+10.select productName,MSRP,productDescription from products;
