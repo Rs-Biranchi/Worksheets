@@ -1,0 +1,15 @@
+1.(A),(B),(C) & (D)
+2.(B)
+3.(A)
+4.(A) & (B)
+5.(A)[“I”, “love”, “#”, “food”, “#”, “pasta”]
+6.(B) [“I”, “love”, “#food”, “#pasta”]
+7.(A),(B) & (C)
+8.(B)Language Translation Task
+9.(A) It takes in to consideration of only the words present in the text and not the order of the words.
+10.(B)(2,5)
+11.(A)
+12.0.57735
+13.0.774597
+14.(A)
+15.(A)
