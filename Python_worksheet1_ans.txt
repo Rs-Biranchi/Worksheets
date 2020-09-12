@@ -1,0 +1,11 @@
+Python Worksheet-1
+1.(C)%
+2.(B)0
+3.(C)24
+4(A)2
+5.6
+6.(C)
+7.(A)It is used to raise an exception
+8.(C)
+9.(A), (B) & (C)
+10.(A) & (B)
