@@ -1,0 +1,38 @@
+Machine Learning Worksheet3
+1.A Kernel transforms an input data space into the required form.It takes a low-dimentional input space and transform into a higher dimensional space means it converts nonseparablt problem to separable problems by adding more dimention to it.It is most useful in non linear separation problem. Kernel trick helps to build more accurate classifier.
+kernels used in SVM are Linear,RBF and Polynomial
+Linear:-A linear kernel can be used as normal dot product any given observations.The product between two vectors is the sum of the multiplications of each pair of input values.
+RBF:-Radial Basic function kernel is a popular kernel function.RBF can map an input space in infinite dimensional space.
+Polynomial:-It is more generalized form of the linear kernel.It can distinguish curved or nonlinear input space.
+
+
+4.Decesion tree uses two criterions out of it gini index is one.
+It is a metric to measure how often a randomly chosen element would be incorrctly identified. It means an attribute with lower gini index should be prefered.
+
+5.Yes,Decision-Tree is prone to overfitting specially when the tree is deep and due to high bias in decesion tree model before regularization.
+6.Ensemble technique is a Machine Learning Paradigm where multiple weak learner models are trained to solve the same problem and combined to get better results. The main hypothesis is that when weak models are correctly combined we can obtain more accurate and robust models.
+
+7.Bagging:-
+i)It Considers homogeneous weak learners and learn them independently.
+ii)It decreases Variance that means Overfitting is handeled by Bagging.
+iii)All the models are built independently.
+iv)Each model are equally weighted.
+v)Methods used in Bagging are RandomForest and Extra Tree
+
+Boosting:-
+i) It considers homogenious weak learners and learns them sequentially.
+ii)It decreases bias so that instead underfitting the model learns good.Overfitting is not handeled by Bossting.
+iii)Models are influenced by previous models as the performance of one model is input to the next model.
+iv)Models are weighted by there performance.
+v)Methods used in Boosting are AdaBoost and GradientBoosting.
+
+
+9.It is very important technique to prevent underfitting and overfitting of a model. It is a reshampling procedure used to evaluate machine learning model with limited data sample. The procedure has a single parameter "K" that refers to the number of groups that a given data sample is to be split into. As such the procedure is often called K-fold cross-validation.
+
+10.Hyperparameter are the ones that help with the learning process.For Ex-number of cluster in K-means. Adjusting the hyperparameter for best training of the training set is called hyperparameter tuning. For best training and for best accuracy hyperparameter tuning is done.
+
+12.In Machine Learning,may be we are facing with classification or a regression problem, the choice of model is extremely important to have any chance to obtained good results. This choice can depend on many variables of the problem.
+
+A low bias and low variance,although they most often vary in opposite direction, are the two most fundamental features expected for a model.Indeed, to be able to solve a problem, we want our model to have enough degrees of freedom to resolve the underlying complexity of the data we are working with, but we also want it to have not too much degrees of freedom to avoid high variance and be more robust. This is the well known bias-variance tradeoff.
+
+13.Regularization in machine learning is a technique to reduce the errors by fitting the functions appropriately on the training set to avoid overfitting. So that regularization used in machine learning.
