@@ -1,0 +1,16 @@
+Web Scraping Worksheet2
+
+1.C)find_all()
+2.C)Unix
+3.C)ASP
+4.D)send_keys()
+5.B)Indexing
+6.C)Web-spider
+7.C)WebDriverWait
+8.
+9.C)XML
+10.B)find_element_by_id
+
+11.(A)class & (B)href
+12.C)lxml
+13.(A),(B) & (C)
