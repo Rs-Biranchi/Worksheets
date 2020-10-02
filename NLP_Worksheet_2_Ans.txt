@@ -1,0 +1,17 @@
+NLP-worksheet2 Ans
+
+1.small amendment in option B can capture the mail id from the string, The amended pattern is-"[a-z1-9]*@[a-z].com"
+2.(A)'*'
+3.(B)'@.{4}'
+4.(A)
+5.(A) /w
+6.(A) & (C)
+7.(C) & (D)
+8.(B) ^
+9.(B)re.search()
+10.(A)
+11.(C)\d
+12.
+13.(C)
+14.(A)re.sub('Road','rd',street)
+15.None
