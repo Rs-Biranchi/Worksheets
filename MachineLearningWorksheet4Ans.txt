@@ -1,0 +1,27 @@
+1.(A)GridSearchCV()
+2.(A) Random forest
+3.(B) The regularization will decrease
+4.(C)both A & B
+5.(A) It's a ensemble of weak learners
+6.(C)
+7.(B) Bias will decrease, Variance Increase
+8.(B) model is overfitting
+
+
+10.i)Random Forest normalize the risk of overfitting.
+ii)Random Forest replaces the population used to construct the tree and also expalnatory variables are boostrapped so that partition is  not done on same important variable. It keeps on building tree by determining the important variable which depends on homogenity. Boostrapping reduces bias and variance both which makes the model more robust and accurate.
+11. When we get the dataset for performing machine learning many times the numerical features are not in a range. Performing machine learning, algorithm tends to weight greater values as higher and weight lower values as smaller. Feature scaling normalize the data within a particular range. So that we get more accurate prediction .It also helps in speeding up the calculation.
+
+Two techniques are used for scaling are StandardScaler and MinMax Scaler.
+
+
+13.No. When the dataset is symetrical and the false positive and false negative are almost same that time accuracy is a good metric to measure the performance. But when the dataset is highly imbalance for a classification problem accuracy is not a good metric. Beacause it does not distinguish between the number of correctly classified examples of different classes.
+
+14.It is the best reliable metric to evaluate performance of classification problems.It is the harmonic mean of precision and recall.
+Mathematically=2(precision*recall)/(precision+recall)
+
+15.fit()  calculates the parameters- mean and standard deviation and saves them internally.
+
+transform() is used to apply the transformation to any set of data. Means  it uses a previously computed mean and standard deviation to autoscale the data.
+
+fit_transform() can do both the tasks at once.
