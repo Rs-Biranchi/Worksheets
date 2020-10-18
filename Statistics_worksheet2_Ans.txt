@@ -1,0 +1,15 @@
+1.c)both
+2.c)12
+3.d)All of the above
+4.b)Mutually exclusive
+5.d) All of these
+6.b)Data set
+7.a)2 or more
+8.b)Scatter plot
+9.d)Analysis of variance(ANOVA)
+10.z-score 
+11.c)mean
+12.d)400005.2
+13.c)Median
+14.a)Descriptive and inferences
+15.d)H-L

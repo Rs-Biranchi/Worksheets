@@ -1,0 +1,15 @@
+1.D)Unique
+2.C)Null
+3.A) Each entry in the primary key uniquely identfies each entry or row in the table.
+4.D)All of the above
+5.B)Foreign Key
+6.B)3
+7.c)one to one
+8.c)one to one
+9.A) Delivery Id
+10.D)2
+11.c)one to one
+12.C)Table
+13.A)Insert Into
+14.B & C
+15.
