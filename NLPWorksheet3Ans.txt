@@ -1,0 +1,16 @@
+1.D)WordNetLemmatizer
+2.C)so that lengths of words are reduced
+3.A)
+4.B)Chunking
+5.
+6.C)Rule based Taggers
+7.C)
+8.
+9.
+10.A)Modeling a Sequential  process
+11.A)POS tagging
+12.C)Dependency Parsing
+13.D)
+14.D)
+15.
+16.D)
