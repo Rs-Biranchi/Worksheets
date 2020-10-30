@@ -1,0 +1,10 @@
+1.(A)an ndarray
+2.(A)True
+3.(D)All of the above
+4.(D)Error
+5.(B) 2 dimentional
+6(D)1
+7.(c)ix
+8.
+9.(A),(B),(C) &(D)
+10.(A),(B) & (C)
