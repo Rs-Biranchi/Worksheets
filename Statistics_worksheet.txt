@@ -1,0 +1,18 @@
+1.a)True
+2.
+3.b)
+4.
+5.c)Poission
+6.b)False
+7.b)Hypothesis
+8.a)0
+9.C)
+
+10.It means the mean of the distribution is 0 and standard deviation is 1.
+11.By imputing the missing values.If the missing data is numerical then we replace it by mean of all the values of that feature and if the missing value is categorical then the recomendation is to replace the missing value with mode of all the values of that feature.
+12.A/B testing is the statistical hypothesis testing.Before lunching a new product or idea
+A/B testing is done so that to make decision.
+13.Yes.It is a good practice in case of numerical data.
+14.In statistics,linear regression is the technique to modeling the relationship between independent and dependent variables.
+15.The main brances of statistics are i)Descriptive Statistics
+ii)Inferential Statistics
