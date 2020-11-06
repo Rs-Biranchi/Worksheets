@@ -1,0 +1,29 @@
+1. B)As number of hidden layers increases, model capacity increases.
+2.C) It normalizes (changes) all the input before sending it to the next layer
+3.A)
+4.D)All of These
+5.
+6.B)
+7.B)Stochastic Ggradient Descent
+8.A)Freeze all the layers except the last, retrain the last layer
+
+9.(A) & (C)
+10.(C) & (D)
+
+11.Activation function is the the function which activates the neural network means It is added to an artificial neural network in order to help the network learn complex patterns in the data. Without Activation function the neural network not perform good most of the times,perform like a simple Linear Regression.
+
+12.The input data is fedded to the hidden layer, in the hiddden layer each layer accept the input data process it and fed to the next layer and so on to give the output in the forward direction. This is the work of forward propagation.
+
+In case the error is high,to reduce the error to get more accurate output backword propagation is performed. In backword propagation the method is traverses the network in reverse order that is from the output to the input layer to update the weight at each and every neuron.This is the wor of Backword Propagation.
+
+13.Gradient descent is of three types.
+i)Stochastic Gradient Descent: Stochastic gradient descent does this for each training example within the dataset, meaning it updates the parameters for each training example one by one. Depending on the problem, this can make SGD faster than batch gradient descent. One advantage is the frequent updates allow us to have a pretty detailed rate of improvement.
+ii)Batch Gradient Descent: It calculate the error for each example within the training dataset, but only after all training examples have been evaluated does the model get updated.It is also called vanilla Gradient descent.
+iii)Mini-batch Gradient Descent: It is a combination of the concepts of Stochastic Gradient Descent and batch Gradient descent.It simply splits the training dataset into small batches and perform an update for each of those batches.This creates a balance between the robustness of stochastic gradient descent and the efficiency of batch gradient descent.
+
+14.The main benifits of Mini-batch Gradient descent are as follows-
+i)Easily fits in the memory
+ii)Computationally Efficient
+iii)Average of training samples produces stable error
+
+15.The reuse of a pre trained model on a new similar problem is called Transfer learning.
