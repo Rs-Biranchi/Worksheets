@@ -1,0 +1,16 @@
+1.(A) & (C)
+2.(A) & (C)
+3.(C)Both of Them
+4.(D)All of the above
+5.(D)all of the above
+6.(D)All of the above
+7.(D) both A and B
+8.(C) Hyper Text Markup Language
+9.(B) soup=BeautifulSoup(html_doc,html.parser)
+10.(D)"html-xml"
+11.(C)find_next()
+12.(A)find_previous_sibling()
+13.(C)
+14.()
+15find():- by find() we can get the result  if it  isfound in the page.
+find_all() : -It returns all the matches in the web page.
