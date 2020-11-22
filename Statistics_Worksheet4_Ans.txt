@@ -1,0 +1,15 @@
+1.(A)Mean()
+2.(C) Frequency
+3.(C)6
+4.(B)Chi-square distribution
+5.(A)Binomial Distribution
+6.(B)Hypothesis
+7.(A)Null Hypothesis
+8.(A)Two tailed
+9.(B)Research Hypothesis
+10.(D)np(1-p)
+11.(B)Discreate distribution
+12.(D)√npq
+13.(B)0.009
+14.(D)0 and 1
+15.(A)Decreases
