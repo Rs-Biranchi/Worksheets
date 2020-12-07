@@ -1,0 +1,19 @@
+1.(C)+
+2.(C)
+3.(B)
+4.(D)[2,4,6]
+5.(C)[6]
+6.(D)None of the above
+7.(B)error     or (C) if print(A)
+8.(C)
+9.(D) None of the above
+10.(D)All of the Above
+
+11.Two major Differences between List and Set are-
+List:-
+i.Lists are mutable
+ii.Duplicate values are allowed in List.
+
+Set:-
+i.Sets are Immutable .
+ii.Duplicacy is not allowed in set.
