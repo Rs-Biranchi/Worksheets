@@ -1,0 +1,15 @@
+1.(A)POS Tagging
+2.(B)
+3.(B)Word Sense Disambiguation
+4.(A)Lemmatization
+5.(A),(B) & (C)
+6.(A) & (B)
+7.(C)
+8.(A) & (C)
+9.(D)All of the above
+10.(A)Cosine similarity
+11.
+12.(A) & (C) 
+13.(C)
+14.(B) & (C)
+15.
