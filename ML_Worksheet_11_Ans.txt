@@ -1,0 +1,30 @@
+1.C)may or may not increase
+2.B)SST=SSR+SSE
+3.A)difference between the actual value and the predicted value.
+4.C)By its slope
+5.B)can be -1 or 1
+6.D)All of the above
+7.f-statistics
+8.C)Ridge
+
+9.(A) & (D)
+10.(B)Generalizing the test data 
+11.(A)
+
+12.In regression R-square is a goodness of fit messure.It indicates the percentage of variance in the dependent variable that the independent variables explained correctly.It measures the strength of the relationship between the model and the independent variables.
+
+R-squared=Variance explained by the model/Total Variance
+
+R squared shows how well data points fit a curve or line. Adjusted R square also indicates how well datapoints fit a curve or line, but adjusts for the number of datapoints in a model.If we add more and more useless features to the model may R squared increases but adjusted r-square will deacrease and if we add useful features the adjusted R squared increase.
+
+13.The difference between the actual and predicted value is refered as Loss function and the average of all the loss function is known as Cost function of a linear regression.
+
+14.SSE, SSR and SST refers to Sum of Squares Error, Sum of Squares Regression and Sum of Squares Total respectively.
+
+Sum of Squares Error is the difference between the observed value and the predicted value.
+
+Sum of the squares Regression is the sum of the differences between the predicted value and the mean of the dependent variables.
+
+Sum of squares total is the squared differences between the observed dependent variable and its mean.
+
+15. Evaluation metricsc for linear regression are R2,adjusted R2, MSE & MAE.
